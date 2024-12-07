@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.main {
+    
+    color: aliceblue;
+}
+body {
+    display: flex;
+    justify-content: center; /* Центрируем по горизонтали */
+    align-items: center;    /* Центрируем по вертикали */
+    background-color: black;
+    color: white;
+    text-align: center;     /* Выравниваем сам текст по центру */
+}
+.logo {
+    width: 20px;
+    height: auto;
+}
